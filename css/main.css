@@ -45,7 +45,6 @@ body {
   background-image: url('../img/london.jpg');
 }
 
-
 .city-name.london::after{
   content: "London";
 }
